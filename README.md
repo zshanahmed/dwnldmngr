@@ -10,4 +10,4 @@ Dwnldmngr is a background service that helps keep your downloads organized
 
 ### Run dwnldmngr as a background service
 - Make `main.py` an executable file: `chmod +x main.py`
-- Run `main.py` as a background service (and provide *Downloads* folder path):  `./main.py /path/to/downloads`
+- Run `main.py` as a background service (and provide *Downloads* folder path):  `./main.py /path/to/downloads &`
