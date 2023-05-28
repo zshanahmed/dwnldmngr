@@ -1,0 +1,8 @@
+{
+    "Compressed": ["zip", "rar", "7z", "gz", "tar"],
+    "Documents": ["doc", "docx", "pdf", "txt", "xls", "xlsx", "ppt", "pptx", "tsv"],
+    "Pictures": ["jpg", "jpeg", "png", "gif", "bmp", "svg"],
+    "Music": ["mp3", "wav", "ogg", "flac", "aac"],
+    "Videos": ["mp4", "avi", "mkv", "wmv", "mov", "flv", "3gp"],
+    "Applications": ["dmg", "exe", "iso", "apk", "jar", "msi"]
+}
